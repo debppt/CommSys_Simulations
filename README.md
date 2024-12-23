@@ -1,3 +1,5 @@
+Code and model for assignment given in a course EEE F311 Communication Systems
+
 PROBLEM STATEMENTS:
 
 1. Consider a sinusoidal message signal of 1000Hz. For this signal design, a sampling &
